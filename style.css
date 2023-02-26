@@ -1,0 +1,19 @@
+html,
+body {
+  margin: auto;
+}
+
+/* THIS IS CANVAS STYLE*/
+canvas {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid aquamarine;
+  box-shadow: inset;
+}
+
+.heading {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid aqua;
+  border-radius: 25px;
+  }
